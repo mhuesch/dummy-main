@@ -1,3 +1,7 @@
 module Lib where
 
-foo = "bar"
+foo = unlines [ "bar"
+              , "bar"
+              , "binks"
+              , "banks"
+              ]
